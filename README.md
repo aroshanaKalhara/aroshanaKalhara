@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aroshanaKalhara
-- 👀 I’m interested in front-end developing
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on internship
 - 📫 How to reach me aroshanakalhara2001@gmail.com
